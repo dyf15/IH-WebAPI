@@ -1,9 +1,4 @@
-/** 
-* 作成者		:　戴
- * 作成日		:  2016/11/25
- * 学籍番号	:  45008
- * 内容		:　梱包詳細クラス
- */
+
 package Servlet;
 
 import java.io.IOException;
